@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA8_Brown_Jason/src/proj8.cpp
+iostream
+-
+DataType.h
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA8_Brown_Jason/src/DataType.h
+ArrayList.h
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA8_Brown_Jason/src/ArrayList.h
+NodeList.h
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA8_Brown_Jason/src/NodeList.h
+
+include/ArrayList.h
+DataType.h
+include/DataType.h
+
+include/DataType.h
+iostream
+-
+
+include/NodeList.h
+DataType.h
+include/DataType.h
+

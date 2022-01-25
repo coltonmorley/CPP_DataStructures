@@ -1,0 +1,7 @@
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA10_Morley_Colton/CMakeFiles/install/local.dir
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA10_Morley_Colton/CMakeFiles/rebuild_cache.dir
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA10_Morley_Colton/CMakeFiles/edit_cache.dir
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA10_Morley_Colton/CMakeFiles/install/strip.dir
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA10_Morley_Colton/CMakeFiles/proj10.dir
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA10_Morley_Colton/CMakeFiles/install.dir
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA10_Morley_Colton/CMakeFiles/list_install_components.dir

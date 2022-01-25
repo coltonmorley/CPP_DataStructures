@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA10_Morley_Colton/src/proj10.cpp
+iostream
+-
+Node.hpp
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA10_Morley_Colton/src/Node.hpp
+NodeStack.hpp
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA10_Morley_Colton/src/NodeStack.hpp
+ArrayStack.hpp
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA10_Morley_Colton/src/ArrayStack.hpp
+
+include/ArrayStack.hpp
+iostream
+-
+
+include/Node.hpp
+
+include/NodeStack.hpp
+iostream
+-
+Node.hpp
+include/Node.hpp
+

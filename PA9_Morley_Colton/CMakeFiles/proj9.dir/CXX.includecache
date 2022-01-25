@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA9_Morley_Colton/src/proj9.cpp
+iostream
+-
+NodeQueue.h
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA9_Morley_Colton/src/NodeQueue.h
+ArrayQueue.h
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA9_Morley_Colton/src/ArrayQueue.h
+DataType.h
+/Users/coltonmorley/Desktop/School/Spring20/CS202/PA9_Morley_Colton/src/DataType.h
+
+include/ArrayQueue.h
+
+include/DataType.h
+iostream
+-
+
+include/NodeQueue.h
+DataType.h
+include/DataType.h
+
