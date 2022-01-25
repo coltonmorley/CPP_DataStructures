@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libMy_Sources.a  CMakeFiles/My_Sources.dir/src/BubbleSort.cpp.o CMakeFiles/My_Sources.dir/src/MergeSort.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libMy_Sources.a

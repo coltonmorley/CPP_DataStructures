@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/coltonmorley/Desktop/School/Fall2020/CS302/PA02_ColtonMorley/src/BubbleSort.cpp
+stdexcept
+-
+iostream
+-
+fstream
+-
+BubbleSort.h
+/Users/coltonmorley/Desktop/School/Fall2020/CS302/PA02_ColtonMorley/src/BubbleSort.h
+
+/Users/coltonmorley/Desktop/School/Fall2020/CS302/PA02_ColtonMorley/src/MergeSort.cpp
+stdexcept
+-
+iostream
+-
+fstream
+-
+MergeSort.h
+/Users/coltonmorley/Desktop/School/Fall2020/CS302/PA02_ColtonMorley/src/MergeSort.h
+
+include/BubbleSort.h
+stdexcept
+-
+iostream
+-
+
+include/MergeSort.h
+stdexcept
+-
+iostream
+-
+

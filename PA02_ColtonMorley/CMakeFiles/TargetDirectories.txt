@@ -1,0 +1,8 @@
+/Users/coltonmorley/Desktop/School/Fall2020/CS302/PA02_ColtonMorley/CMakeFiles/install/local.dir
+/Users/coltonmorley/Desktop/School/Fall2020/CS302/PA02_ColtonMorley/CMakeFiles/install/strip.dir
+/Users/coltonmorley/Desktop/School/Fall2020/CS302/PA02_ColtonMorley/CMakeFiles/install.dir
+/Users/coltonmorley/Desktop/School/Fall2020/CS302/PA02_ColtonMorley/CMakeFiles/list_install_components.dir
+/Users/coltonmorley/Desktop/School/Fall2020/CS302/PA02_ColtonMorley/CMakeFiles/edit_cache.dir
+/Users/coltonmorley/Desktop/School/Fall2020/CS302/PA02_ColtonMorley/CMakeFiles/proj2.dir
+/Users/coltonmorley/Desktop/School/Fall2020/CS302/PA02_ColtonMorley/CMakeFiles/rebuild_cache.dir
+/Users/coltonmorley/Desktop/School/Fall2020/CS302/PA02_ColtonMorley/CMakeFiles/My_Sources.dir
